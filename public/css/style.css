@@ -21,7 +21,7 @@
 
 .header h3{
     font-size: 25px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     
 }
 .content{
@@ -31,7 +31,7 @@
 
 .content h1{
     font-size: 80px;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 .category {
@@ -42,12 +42,12 @@
 
 .btn{
     cursor: pointer;
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 20px;
     letter-spacing: 2px;
     padding: 10px 30px;
     border: 2px solid transparent;
-    background: rgb(255, 255, 255);
+    background: rgb(177, 175, 160);
     text-decoration: none;
     text-align: center;
     font-weight: bold;
